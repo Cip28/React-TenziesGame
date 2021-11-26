@@ -185,6 +185,9 @@ main.dark{
 .roll-dice:active {
   box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
 }
-.title,.instructions{
+.title,.instructions,.clicks,.time{
   text-align: center;
+}
+.clicks,.time{
+  color:red;
 }
